@@ -1,5 +1,10 @@
 This demo is using to MCP-based MSI-CS reconstruction.
 
+All MSI dataset can be downloaded at the following linking:
+
+https://pan.baidu.com/s/1LHILMjpdktqWsFTw0RU2vQ 
+Extract code：1234 
+
 When you use this demo, please first load software package "matconvnet", and make sure
 run the function "vl_compilenn.m" succesfully.
 

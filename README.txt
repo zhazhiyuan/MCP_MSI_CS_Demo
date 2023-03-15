@@ -23,3 +23,15 @@ please transform " res     =   vl_ffdnet_concise(net, input);"
 into "res    = vl_ffdnet_matlab(net, input);".
 
 but this operator is very slow.
+
+Please cite as follows:
+
+@ARTICLE{Zha2023Multiple,
+  author={Zha, Zhiyuan and Wen, Bihan and Yuan, Xin and Zhang, Jiachao and Zhou, Jiantao and Jiang, Xudong and Zhu, Ce},
+  journal={IEEE Transactions on Cybernetics}, 
+  title={Multiple Complementary Priors for Multispectral Image Compressive Sensing Reconstruction}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TCYB.2023.3251730}}
